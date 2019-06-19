@@ -5,3 +5,5 @@
 A wrapper for the [Gitlab API](https://gitlab.org) written in Java.
 
 [Documentation](https://timols.github.io/java-gitlab-api) is available in the form of [Javadocs](https://timols.github.io/java-gitlab-api)
+
+> This repository is forked from [java-gitlab-api](https://github.com/timols/java-gitlab-api).
